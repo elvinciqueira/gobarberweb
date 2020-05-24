@@ -36,6 +36,7 @@
     "no-unused-expressions": "off",
     "global-require": "off",
     "@typescript-eslint/camelcase": "off",
+    "import/no-duplicates": "off",
     "react-hooks/rules-of-hooks": "error",
     "react-hooks/exhaustive-deps": "warn",
     "react/jsx-filename-extension": [
